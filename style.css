@@ -1,3 +1,16 @@
-#h1heading {
-    color : red;
+.navBar{
+    display: flex;
+    background: rgb(20, 20, 89);
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navBar .logo{
+    width: 100px;
+    height: 100px;
+}
+
+.navBar .userImage{
+    width: 100px;
+    height: 100px;
 }
